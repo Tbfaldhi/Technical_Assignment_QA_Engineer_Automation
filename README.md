@@ -1,7 +1,7 @@
 # Technical_Assignment_QA_Engineer_Automation <br />
 
 hallo, myname is tubagus faldhi.<br />
-im test selleniium using robotframework to test valid and invalid login <br />
+im test selleniium using RobotFramework to test valid and invalid login <br />
 and this is documentation for this project <br />
 
 1. content of page robot is login_page_robot -> is command for runing this test <br />
